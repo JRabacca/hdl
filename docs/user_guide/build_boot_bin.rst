@@ -58,8 +58,8 @@ The script can take 3 parameters:
 
    Keep in mind that **the u-boot is FPGA-specific**!
 
-   See the beginning of :external+documentation:ref:`kuiper sdcard` for
-   instructions on how to obtain the ADI Kuiper image.
+   See this :external+adi-kuiper-gen:ref:`tutorial <quick-start>` for
+   instructions on how to obtain the ADI Kuiper image and use it.
 
 If you didn't use ``make`` parameters when building the project, then
 the script can be saved in the **folder local to the project** (for
@@ -116,8 +116,8 @@ The script can take 4 parameters (the last one is optional):
 
    Keep in mind that **the u-boot is FPGA-specific**!
 
-   See the beginning of :external+documentation:ref:`kuiper sdcard` for
-   instructions on how to obtain the ADI Kuiper image.
+   See this :external+adi-kuiper-gen:ref:`tutorial <quick-start>` for
+   instructions on how to obtain the ADI Kuiper image and use it.
 
 If you didn't use ``make`` parameters when building the project, then
 the script can be saved in the **folder local to the project** (for
@@ -173,8 +173,8 @@ The script can take 4 parameters:
 
    Keep in mind that **the u-boot is FPGA-specific**!
 
-   See the beginning of :external+documentation:ref:`kuiper sdcard` for
-   instructions on how to obtain the ADI Kuiper image.
+   See this :external+adi-kuiper-gen:ref:`tutorial <quick-start>` for
+   instructions on how to obtain the ADI Kuiper image and use it.
 
 If you didn't use ``make`` parameters when building the project, then
 the script can be saved in the **folder local to the project** (for
@@ -203,7 +203,7 @@ More information
 -------------------------------------------------------------------------------
 
 (NOT RECOMMENDED) If you're in for the long story, check out the
-`AMD Xilinx wiki <https://xilinx-wiki.atlassian.net/wiki/A>`__ pages.
+`AMD Xilinx wiki <https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview>`__ pages.
 
 .. collapsible:: For more details on the long story (NOT RECOMMENDED)
 
